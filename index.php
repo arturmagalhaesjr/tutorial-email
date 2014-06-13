@@ -345,7 +345,7 @@
             Configure conforme a imagem abaixo: <br/>
         </p>
 
-        <p class="image"><img src="imagens/outlook%202013%20x4%20gmail%20.png"/></p>
+        <p class="image"><img src="imagens/outlook-2013-x4-gmail.png"/></p>
 
          <p>Clique em Ok e terminou.</p>
     </div>
