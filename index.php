@@ -126,8 +126,8 @@
 
             <p>
                 Agora imagine que os seus dados são os seguintes: <br/>
-                Seu nome: Pedro Silva <br/>
-                Seu Email: pedrosilva@gmail.com <br/>
+                Seu nome: Seu Nome <br/>
+                Seu Email: email@dominio.com.br <br/>
 
                 Configure conforme as imagens abaixo:
             </p>
@@ -185,8 +185,8 @@
 
 
             Agora imagine que os seus dados são os seguintes: <br/>
-            Seu nome: Pedro Silva <br/>
-            Seu Email: pedrosilva@gmail.com <br/>
+            Seu nome: Seu Nome <br/>
+            Seu Email: email@dominio.com.br <br/>
 
             Configure conforme a imagem abaixo: <br/>
         </p>
@@ -246,8 +246,8 @@
             Irá aparecer uma nova janela para Adicionar Nova Conta de Correio Electrónico <br/> <br/>
 
             Agora imagine que os seus dados são os seguintes: <br/>
-            Seu nome: Pedro Silva <br/>
-            Seu Email: pedrosilva@gmail.com <br/>
+            Seu nome: Seu Nome <br/>
+            Seu Email: email@dominio.com.br <br/>
 
             Configure conforme a imagem abaixo: <br/>
         </p>
@@ -295,8 +295,8 @@
             Irá aparecer a uma nova janela para as Configurações de Email na Internet <br/>
 
             Agora imagine que os seus dados são os seguintes: <br/>
-            Seu nome: Pedro Silva <br/>
-            Seu Email: pedrosilva@gmail.com <br/>
+            Seu nome: Seu Nome <br/>
+            Seu Email: email@dominio.com.br <br/>
 
             Configure conforme a imagem abaixo: <br/>
         </p>
@@ -339,8 +339,8 @@
             Irá aparecer a uma nova janela para as Configurações de Email na Internet <br/>
 
             Agora imagine que os seus dados são os seguintes: <br/>
-            Seu nome: Pedro Silva <br/>
-            Seu Email: pedrosilva@gmail.com <br/>
+            Seu nome: Seu Nome <br/>
+            Seu Email: email@dominio.com.br <br/>
 
             Configure conforme a imagem abaixo: <br/>
         </p>
@@ -359,8 +359,8 @@
             Irá aparecer o assistente para Configurar conta de email <br/>
 
             Agora imagine que os seus dados são os seguintes: <br/>
-            Seu nome: Pedro Silva <br/>
-            Seu Email: pedrosilva@gmail.com <br/>
+            Seu nome: Seu Nome <br/>
+            Seu Email: email@dominio.com.br <br/>
 
             Configure conforme as imagens abaixo:
         </p>
