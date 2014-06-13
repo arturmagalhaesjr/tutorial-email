@@ -77,7 +77,7 @@
                     <li><a href="#outlook2007">Outlook 2007</a></li>
                     <li><a href="#outlook2010">Outlook 2010</a></li>
                     <li><a href="#outlook2013">Outlook 2013</a></li>
-                    <li><a href="#thunderbird">Mozilla Thunderbird</a></li>
+                    <!--<li><a href="#thunderbird">Mozilla Thunderbird</a></li>-->
                 </ul>
             </div>
         </div>
@@ -349,7 +349,7 @@
 
          <p>Clique em Ok e terminou.</p>
     </div>
-    <div class="box">
+    <!--<div class="box">
         <h1 id="thunderbird">Mozilla Thunderbird</h1>
         <p>
             Se é a primeira vez que abre o Thunderbird desde a sua instalação, irá surgir de imediato a janela para configurar uma conta de correio electrónico. Se não é a primeira vez que abre o Thunderbird desde a sua instalação, clique em Arquivo, Novo e de seguida, Conta de Email como na imagem seguinte:
@@ -370,7 +370,7 @@
             As configurações deverão de ser as seguintes:
         </p>
         <p class="image"><img src="imagens/thunderbird%20x2%20gmail%20.png"/></p>
-    </div>
+    </div>-->
 </div>
 </body>
 </html>
